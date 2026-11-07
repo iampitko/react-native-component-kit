@@ -1,0 +1,19 @@
+{
+  "name": "react-native-component-kit",
+  "version": "1.0.0",
+  "description": "Agent-ready UI components for React Native + TypeScript. One theme file, typed props, copy-paste friendly.",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "react-native": "^0.76.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "react": "^19.3.1",
+    "react-native": "^0.88.1",
+    "typescript": "^5.7.0"
+  }
+}
